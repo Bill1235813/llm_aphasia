@@ -7,7 +7,7 @@ Yao Du<sup>1</sup>, Samuel Nastase<sup>1</sup>, Yanjun Gao<sup>4</sup>
 <sup>3</sup>University of Michigan, <sup>4</sup>University of Colorado Anschutz Medical Campus
 (<sup>†</sup>corresponding authors)
 
-**[Project page](https://bill1235813.github.io/llm_aphasia/)** · **Paper** (arXiv, coming soon)
+**[Project page](https://llm-aphasia.github.io/)** · **Paper** (arXiv, coming soon)
 
 Neuropsychology maps how the brain produces language by studying how language breaks down after focal damage, as
 in aphasia. This repository holds the code of our study, which uses the same lens on large language models. It
