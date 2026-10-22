@@ -159,14 +159,10 @@ models, AphasiaBank and MMLU keep their own licences.
 ## Citation
 
 ```bibtex
-@misc{he2026language,
-  title         = {Language Impairment as a Lens onto Large Language Models},
-  author        = {He, Muxuan and Zhu, Wang Bill and Chen, Yue and Kaiser, Elsi and
-                   Du, Weizhi and Du, Yao and Nastase, Samuel and Gao, Yanjun},
-  year          = {2026},
-  eprint        = {2610.28992},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CL},
-  url           = {https://arxiv.org/abs/2610.28992}
+@article{he2026language,
+  title   = {Language Impairment as a Lens onto Large Language Models},
+  author  = {He, Muxuan and Zhu, Wang Bill and Chen, Yue and Kaiser, Elsi and Du, Weizhi and Du, Yao and Nastase, Samuel and Gao, Yanjun},
+  journal = {arXiv preprint arXiv:2610.28992},
+  year    = {2026}
 }
 ```
