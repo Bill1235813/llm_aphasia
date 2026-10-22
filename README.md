@@ -7,7 +7,7 @@ Yao Du<sup>1</sup>, Samuel Nastase<sup>1</sup>, Yanjun Gao<sup>4</sup>
 <sup>3</sup>Independent Researcher, <sup>4</sup>University of Colorado Anschutz Medical Campus
 (<sup>†</sup>corresponding authors)
 
-**[Project page](https://llm-aphasia.github.io/)** · **Paper** (arXiv, coming soon)
+**[Paper](https://arxiv.org/abs/2610.28992)** · **[Project page](https://llm-aphasia.github.io/)**
 
 Neuropsychology maps how the brain produces language by studying how language breaks down after focal damage, as
 in aphasia. This repository holds the code of our study, which uses the same lens on large language models. It
@@ -159,11 +159,14 @@ models, AphasiaBank and MMLU keep their own licences.
 ## Citation
 
 ```bibtex
-@article{he2026language,
-  title   = {Language Impairment as a Lens onto Large Language Models},
-  author  = {He, Muxuan and Zhu, Wang Bill and Chen, Yue and Kaiser, Elsi and Du, Weizhi and Du, Yao and
-             Nastase, Samuel and Gao, Yanjun},
-  journal = {arXiv preprint},
-  year    = {2026}
+@misc{he2026language,
+  title         = {Language Impairment as a Lens onto Large Language Models},
+  author        = {He, Muxuan and Zhu, Wang Bill and Chen, Yue and Kaiser, Elsi and
+                   Du, Weizhi and Du, Yao and Nastase, Samuel and Gao, Yanjun},
+  year          = {2026},
+  eprint        = {2610.28992},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2610.28992}
 }
 ```
